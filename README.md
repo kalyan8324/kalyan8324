@@ -11,7 +11,7 @@
    
 ⚒️ Skills:
 🧑‍💻 Programming Languages:
-Python | Mangodb | Javascript | express | node | vue 
+Python |Javascript | express | node | vue 
 
 💾 Databases:
 MySQL | MongoDB 
@@ -24,7 +24,5 @@ Airflow
 
 🪄 ML Frameworks:
 Pandas | Numpy | Sklearn | Pytorch | Matplotlib | Seaborn 
-
-🌐 Socials:
 
 
