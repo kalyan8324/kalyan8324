@@ -1,6 +1,6 @@
   👋 Hello, Welcome to my profile.
   
-  💡 Expertise In my journey as a Big Data Engineer, I have honed my skills in:
+  💡 Expertise In my journey as a Ai Engineer, I have honed my skills in:
 
   
 🔹 Programming Languages: I am proficient in Python, SQL and Spark, using them to develop data-centric applications, perform data analysis, and build machine learning models.
